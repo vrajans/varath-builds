@@ -11,6 +11,7 @@ open the folder from the episode you watched, and follow its README.
 |---|---|---|---|
 | 01 | [Metadata-driven REST API ingestion](01-fabric-api-ingestion/) | Microsoft Fabric · PySpark · Data Factory · Power BI Direct Lake | *link after upload* |
 | 02 | [Incremental loads with watermarks](02-fabric-incremental-loads/) | Microsoft Fabric · PySpark · Delta replaceWhere | *link after upload* |
+| 03 | [SCD Type 2 partner dimension](03-fabric-scd-type2/) | Microsoft Fabric · PySpark · Delta MERGE · Power BI | *link after upload* |
 
 ## How the builds are organised
 
